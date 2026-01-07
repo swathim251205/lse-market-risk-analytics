@@ -1,0 +1,18 @@
+# env / secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# notebooks
+.ipynb_checkpoints/
+
+# optional: if you don't want to commit charts, uncomment next line
+# charts/
